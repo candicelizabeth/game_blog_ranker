@@ -18,6 +18,7 @@ make controller files for your models (make sure your application knows about yo
 make routes in game_controller for the following routes:
 
 show all game_blogs
+<!-- Left off here.  -->
 show an individual game_blogs
 form for making a new game_blogs
 creating a new game_blogs
