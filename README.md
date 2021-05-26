@@ -36,11 +36,28 @@ make appropriate erb files in your folders to correspond with your routes.
 
 make form for creating a new game
 
-make a form for creating a new user
-
 make sure everything works correctly.
 
-Bonus: have your user form be able to create new game_blogs (up to three) that are already associated to the user.
+set links on your gameblog page.
+
+a user should have a username or email and a password (think about what we call this in a table) 
+
+a user should have a secure password (what gem and method should you use?)
+
+make a signup route 
+
+make a signup form
+
+a user should not be created if an email/username and password is blank and there should be no duplicate emails/usernames (email/username HAS TO BE UNIQUE)
+
+once a user is created log them in (store their username in the session)
+once a user is created redirect them to the game blogs 
+
+if a user does not successfully create a user redirect back to the form
+
+a user should be able to log out 
+
+a user should be able to log in
 
 About
 No description, website, or topics provided.
