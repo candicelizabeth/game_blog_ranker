@@ -24,19 +24,13 @@ form for making a new game_blogs
 creating a new game_blogs
 make routes in user_controller for the following routes:
 
-show all users
-show an individual user
-form for making a new user
-creating a new user
-make views folders for both users and games
 
-make a layout file
+show an individual user
+make views folders for both users and games
 
 make appropriate erb files in your folders to correspond with your routes.
 
 make form for creating a new game
-
-make sure everything works correctly.
 
 set links on your gameblog page.
 
